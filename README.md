@@ -17,9 +17,10 @@
 
 <br>
 
-## 📣【今日推荐阅读】[Golang 新手可能会踩的 50 个坑](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20%E6%96%B0%E6%89%8B%E5%8F%AF%E8%83%BD%E4%BC%9A%E8%B8%A9%E7%9A%84%2050%20%E4%B8%AA%E5%9D%91.md)
-## 🔠【测测你会做多少】[Golang精编100题（选择题、填空题、判断题）](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%E7%B2%BE%E7%BC%96100%E9%A2%98.md)
+## 📣【今日推荐阅读】[Go自带库的使用说明](https://github.com/0voice/Introduction-to-Golang/blob/main/Go%E8%87%AA%E5%B8%A6%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
+## 🔠【还不会入门，找我】[Go语言基础语法宝典](https://github.com/0voice/Introduction-to-Golang/blob/main/Go%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95%E5%AE%9D%E5%85%B8.md)
 ## 🗡【一册在手，天下我有】[Go 语言参考手册](https://github.com/0voice/Introduction-to-Golang/blob/main/Go%20%E8%AF%AD%E8%A8%80%E5%8F%82%E8%80%83%E6%89%8B%E5%86%8C.md)
+## 🤔【导图辅助，有如神助】[Golang 入门笔记](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0.md)[（pdf版下载）](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0.pdf)
 
 ## 🧑‍🤝‍🧑 Rob Pike谈Google Go
 
@@ -158,7 +159,7 @@
 
 [Go内存分配那些事，就这么简单](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Go%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E9%82%A3%E4%BA%9B%E4%BA%8B%EF%BC%8C%E5%B0%B1%E8%BF%99%E4%B9%88%E7%AE%80%E5%8D%95%EF%BC%81.md)
 
-[Go语言TCP Socket编程](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Go%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E9%82%A3%E4%BA%9B%E4%BA%8B%EF%BC%8C%E5%B0%B1%E8%BF%99%E4%B9%88%E7%AE%80%E5%8D%95%EF%BC%81.md)
+[Go语言TCP Socket编程](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Go%E8%AF%AD%E8%A8%80TCP%20Socket%E7%BC%96%E7%A8%8B.md)
 
 [从源码角度看 Golang 的调度](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/%E4%BB%8E%E6%BA%90%E7%A0%81%E8%A7%92%E5%BA%A6%E7%9C%8B%20Golang%20%E7%9A%84%E8%B0%83%E5%BA%A6.md)
 
@@ -178,6 +179,7 @@
 
 [图解Go内存分配器](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/%E5%9B%BE%E8%A7%A3Go%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E5%99%A8.md)
 
+[Go常用命令](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Go%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md)
 
 ---
 
@@ -203,7 +205,7 @@ Golang REST API With Mux | [百度网盘：el4d](https://pan.baidu.com/s/1TrsNS6
 Golang Crash Course | [百度网盘：v4jw](https://pan.baidu.com/s/1QXJW21hm-hOJ1hxMzkQoog)
 Brad Fitzpatrick Go 1 11 and beyond | [百度网盘：yg9r](https://pan.baidu.com/s/1RsZHVCH3xI6hLfyCxCPS2g)
 dotGo 2015 - Rob Pike - Simplicity is Complicated | [百度网盘：594c](https://pan.baidu.com/s/1RcfgpuCzYToBnaHMwfhjIw)
-  
+golang快速入门【奇淼】 | [bilibili持续更新](https://space.bilibili.com/322210472/channel/seriesdetail?sid=238027)
 </div>
 
 ---
@@ -216,21 +218,21 @@ dotGo 2015 - Rob Pike - Simplicity is Complicated | [百度网盘：594c](https:
 	
 项目 | 简介
 -------|-------------------
-[docker](https://github.com/docker/docker) | 无人不知的虚拟华平台，开源的应用容器引擎,借助该引擎，开发者可以打包他们的应用，移植到任何平台上。
+[docker](https://github.com/docker/docker) | 无人不知的虚拟化平台，开源的应用容器引擎，借助该引擎，开发者可以打包他们的应用，移植到任何平台上。
 [golang](https://github.com/golang/go) | go本身，也是用go语言实现的，包括他的编译器，要研究go源代码的可以看此项目录 
 [kubernetes](https://github.com/kubernetes/kubernetes) | Google出品，用于调度和管理docker的开源容器管理系统，利用他，可以方便的管理你的docker实例，哪怕非常多，也是目前最流行的docker管理系统。 
 [gogs](https://github.com/gogits/gogs) |一款基于git的代码托管系统，类似于github和gitlab，不过其小巧易用，功能强大，部署方便，也有不少用户在使用。 
-[syncthing](https://github.com/syncthing/syncthing) | 开源的文件同步系统,它使用了其独有的对等自由块交换协议,速度很快,据说可以替换BitTorrent Sync。 
-[grafana](https://github.com/grafana/grafana) |一款开源监控度量的看板系统，可以接Graphite,Elasticsearch,InfluxDB等数据源，定制化很高。 
+[syncthing](https://github.com/syncthing/syncthing) | 开源的文件同步系统，它使用了其独有的对等自由块交换协议，速度很快，据说可以替换BitTorrent Sync。 
+[grafana](https://github.com/grafana/grafana) |一款开源监控度量的看板系统，可以接Graphite、Elasticsearch、InfluxDB等数据源，定制化很高。 
 [etcd](https://github.com/coreos/etcd) | 一款分布式的，可靠的K-V存储系统，使用简单，速度快，又安全。 
 [hub](https://github.com/github/hub) |一款更便捷使用github的工具，包装并且扩展了git，提供了很多特性和功能，使用和git差不多。 
 [influxdb](https://github.com/influxdata/influxdb) | 可伸缩的数据库，使用场景主要用来存储测量数据，事件点击以及其他等实时分析数据，用来做监控性能很不错。 
 [caddy](https://github.com/mholt/caddy) |快速的，跨平台的HTTP/2 Web服务器。 
 [beego](https://github.com/astaxie/beego) | 国产开源的高性能Web框架，让你快速的开发Go Web应用服务，谢大主笔。 
 [martini](https://github.com/go-martini/martini) |也是一款不错的Web框架。 
-[cayley](https://github.com/cayleygraph/cayley) |Google开源的图数据库，这是一个NoSql数据库，适合处理复杂的，但是结构化低的数据,适用于社交网络，推荐系统等。
+[cayley](https://github.com/cayleygraph/cayley) |Google开源的图数据库，这是一个NoSql数据库，适合处理复杂的，但是结构化低的数据，适用于社交网络，推荐系统等。
 [nsq](https://github.com/nsqio/nsq) |一款开源的实时的，分布式的消息中间件系统。
-[codis](https://github.com/CodisLabs/codis) | Codis是一个分布式Redis解决方案,其实就是一个数据库代理，让你在使用Redis集群的时候，就像使用单机版的Redis是一样的，对开发者透明。 
+[codis](https://github.com/CodisLabs/codis) | Codis是一个分布式Redis解决方案，其实就是一个数据库代理，让你在使用Redis集群的时候，就像使用单机版的Redis是一样的，对开发者透明。 
 [delve](https://github.com/derekparker/delve) |这个Go开发者都知道，一款go应用开发的调试工具。 
 [cobra](https://github.com/spf13/cobra) |cobra是一个命令行go库，可以让你创建非常强大的，现代的CLI命令行应用。
 [megaease/easegress](https://github.com/megaease/easegress)|云本地流量编排系统
@@ -281,7 +283,7 @@ dotGo 2015 - Rob Pike - Simplicity is Complicated | [百度网盘：594c](https:
 [Keybase](https://github.com/keybase/client)|即时通讯工具 Keybase 全平台客户端
 [golang/protobuf](https://github.com/golang/protobuf)|Go 版本的 Protocol Buffers
 [gogo/protobuf](https://github.com/gogo/protobuf)|golang/protobuf 的扩展替代品
-[Objx](https://github.com/stretchr/objx)|操作 map, slice, JSON 等数据的包
+[Objx](https://github.com/stretchr/objx)|操作 map、slice、JSON 等数据的包
 [gorilla/rpc](https://github.com/gorilla/rpc)|构建基于 HTTP 的 RPC 服务，比如 JSON-RPC
 [Twirp](https://github.com/twitchtv/twirp)|基于 Protobuf 的 RPC 框架，与 gRPC 类似
 
@@ -306,6 +308,7 @@ dotGo 2015 - Rob Pike - Simplicity is Complicated | [百度网盘：594c](https:
 [cachego](https://github.com/faabiosr/cachego)|支持 Redis、Bolt 等缓存接口
 [go-tagexpr](https://github.com/bytedance/go-tagexpr)|字节跳动开源的结构体标签表达式解释器
 [goav](https://github.com/giorgisio/goav)|FFmpeg 视频处理
+[rosedb](https://github.com/roseduan/rosedb)|基于 bitcask 的 k-v 存储模型，高效、快速、简洁
 
 ---
 
@@ -803,19 +806,49 @@ DevOps是一种重视“软件开发人员”和“IT运维技术人员”之间
   * CVM云服务器
   * TKE容器服务
 
+## 🤝 鸣谢
+
+##### 本repo励志作为全网golang资料最全的repo，因此非常感谢各位贡献patch的朋友， 还有很多在issue里面出谋划策的朋友，为此衷心感谢。
+
+<a href="https://github.com/wangbojing">
+    <img src="https://avatars.githubusercontent.com/u/18027560?v=4" width="40px">
+</a> 
+
+<a href="https://github.com/wenchao1024">
+    <img src="https://avatars.githubusercontent.com/u/87457873?v=4" width="40px">
+</a> 
+
+<a href="https://github.com/aiyijing">
+    <img src="https://avatars.githubusercontent.com/u/11643145?v=4" width="40px">
+</a> 
+
+<a href="https://github.com/nathan-tw">
+    <img src="https://avatars.githubusercontent.com/u/61750268?v=4" width="40px">
+</a> 
+
+<a href="https://github.com/louis70109">
+    <img src="https://avatars.githubusercontent.com/u/6940010?v=4" width="40px">
+</a> 
+
+<a href="https://github.com/z774379121">
+    <img src="https://avatars.githubusercontent.com/u/32691620?v=4" width="40px">
+</a> 
+
+<a href="https://github.com/roseduan">
+    <img src="https://avatars.githubusercontent.com/u/22375523?v=4" width="40px">
+</a> 
+
+<a href="https://github.com/IanSmith123">
+    <img src="https://avatars.githubusercontent.com/u/19611084?v=4" width="40px">
+</a>
 
 ## 联系专栏
 
 #### 零声教育，专注于c/c++Linux后台服务器开发架构技术学习提升。<br>
 每天晚上8点【免费技术直播】：[分享Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK等技术内容，立即学习。](https://ke.qq.com/course/417774?flowToken=1037711)
-  
-#### 免费订阅直播链接【添加WX: baby602878196】即可领取对标腾讯T9职级技术要求的后台开发学习图谱。
 
-![大纲部分图.png](https://img11.360buyimg.com/ddimg/jfs/t1/37229/14/15620/149708/60e6a78eE5241eec1/d0f0c9d9aa1e4d99.png)
+#### 关注微信公众号【后台服务架构师】——【联系我们】，获取本repo最全PDF学习文档！
 
-#### 微信扫码联系VIP课程咨询贝贝老师，免费领取更多福利干货资料【备注：GitHub Golang】
-
-![贝贝二维码](https://user-images.githubusercontent.com/87457873/128682206-5054844b-354c-4a66-b096-be0c4508d4d8.png)
-
+<img width="65%" height="65%" src="https://user-images.githubusercontent.com/87457873/130796999-03af3f54-3719-47b4-8e41-2e762ab1c68b.png"/>
 
 
